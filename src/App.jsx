@@ -176,11 +176,17 @@ export default function App() {
           <p className="greeting">My cutest Nimish,</p>
           <div className="body">
             <p>I don&apos;t even know where to start, because no words ever feel enough when it comes to you… but I still want to try.</p>
-            <p>Never in my life I thought of having a boyfriend or a relationship but the day I saw you on the first day of our college, my heart melted for you. But I obviously had no hopes cause you looked so pretty — I guaranteed you must be having someone in your life. That&apos;s why I tried to stop thinking about you but couldn&apos;t.</p>
-            <p>But then you entered in my life again and I was so grateful that your bus route got changed. But still I left hopes cause ofc… so I decided to make you my friend. But then tables got turned and I got to meet the most amazing person I could ever imagine — from inside as well as outside.</p>
-            <p>I met the person who I can be completely myself with. The person who became my peace, my comfort, and my whole world without even trying…</p>
+            <p>Never in my life I thought of having a boyfriend or a relationship but the day I saw you on the first of our college my heart melted for you but I had obviously no hopes cause you looked so pretty i guaranteed you must be having someone in your life that&apos;s why I tried to stop thinking about you but couldn&apos;t but then you entered in my life again and I was so grateful that your bus route got changed but still left hopes cause ofc so I decided to make you my friend but then tables got turned and got to meet the most amazing person I could ever imagine from inside as well as outside.</p>
+            <p>I met the person who I can talk about anything everything about my life and other things the way you understand me no one does…</p>
+            <p>You&apos;re honestly one of the prettiest people I&apos;ve ever seen—not just how you look (which I could admire all day), but the way your expressions change, the way your eyes speak, the way you smile… it does something to me every single time.</p>
+            <p>And you&apos;re so smart. The way you understand things, the way you see situations, the way you handle life—it makes me admire you so much. Sometimes I just sit and think about how lucky I am to have someone like you.</p>
+            <p>But more than anything, it&apos;s your heart. The way you trust me and share everything you feel with me… it makes me feel so close to you. It makes what we have feel so real, so deep, and so special.</p>
+            <p>I don&apos;t just love you for what you do, I love you for who you are. For your little habits, obviously your bare minimum things your moods, your way of being—you&apos;re perfect to me in your own real, imperfect way.</p>
+            <p>You&apos;ve become such an important part of my life that I can&apos;t imagine my days without you anymore. Life just feels softer, happier, and more complete with you in it.</p>
+            <p>I hope you always remember how special you are—not just to the world, but to me. Because to me, you&apos;re everything, my baby my cutie pie my penguin my bbg my punchbag ♥</p>
+            <p>I love you… always.</p>
           </div>
-          <p className="sign">— Forever yours, Aaditi ♥</p>
+          <p className="sign">Yours and only yours — Aaditi (double a) ♥</p>
         </div>
       </section>
 
